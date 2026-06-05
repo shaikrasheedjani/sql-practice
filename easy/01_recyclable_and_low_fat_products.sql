@@ -1,5 +1,5 @@
 -- Problem: Recyclable and Low Fat Products
--- Link: https://leetcode.com/problems/recyclable-and-low-fat-products/
+-- Link: https://leetcode.com/problems/recyclable-and-low-fat-products/description/
 
 SELECT product_id 
 FROM Products

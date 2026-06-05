@@ -4,8 +4,8 @@ My SQL learning journey through LeetCode problems.
 
 ## Progress
 - **Total problems solved:** 23
-- **Easy:** 23
-- **Medium:** 0
+- **Easy:** 22
+- **Medium:** 1
 - **Hard:** 0
 
 ## Topics Learned

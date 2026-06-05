@@ -1,0 +1,6 @@
+-- Problem: Triangle Judgement
+-- Link: https://leetcode.com/problems/triangle-judgement/description/
+
+select *, if(x+y>z and y+z>x and x+z>y, 'Yes', 'No') as triangle from Triangle
+
+-- Concepts: SELECT, IF operator
